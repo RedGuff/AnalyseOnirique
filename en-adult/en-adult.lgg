@@ -1,0 +1,11 @@
+string Impossible2ReadFile = "Error: impossible to read the file: "
+string Impossible2WriteFile = "Error: impossible to write in the file: "
+
+interface = "interface"
+synonymes = "synonyms"
+symboles = "symbols"
+
+fr_FR_is_true = ""
+# " " for French of France only.
+# "" for other languages, like "fr_BE", or "en" for example. 
+# If you do not know why, it's ""!

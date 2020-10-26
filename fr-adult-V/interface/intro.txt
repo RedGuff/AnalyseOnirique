@@ -1,0 +1,11 @@
+Ce logiciel d'analyse onirique tente de vous aider dans votre vie.
+Il cherche initialement des mots et des groupes de mots en ASCII.
+Ensuite il affiche un texte correspondant.
+Le but est de vous donner des conseils qui vous seront fournis en retour.
+Mes analyses sont beaucoup plus faibles que celles d'un professionnel !
+C'est juste une petite initiation inutile, un jeu !
+
+Attention de prendre les conseils fournis ici avec beaucoup de recul !
+En effet, ce logiciel ne vous connait pas : 
+Aucune information n'est inscrite ou transmise, pour des raisons de secret.
+J'ai pris comme inspiration les analyses et les conseils ici :

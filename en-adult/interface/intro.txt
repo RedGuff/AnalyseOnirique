@@ -1,0 +1,11 @@
+This dream analysis software tries to help you in your life.
+It initially searches for words and groups of words in ASCII.
+Then it displays a corresponding text.
+The point is to give you advice which will be given back to you.
+My analyzes are much weaker than those of a professional!
+It's just a little useless initiation, a game!
+
+Be careful to take the advice provided here with a lot of hindsight!
+Indeed, this software does not know you:
+No information is entered or transmitted, for reasons of secrecy.
+I took as inspiration the analyzes and advice here:

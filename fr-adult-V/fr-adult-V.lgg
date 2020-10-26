@@ -1,0 +1,11 @@
+Impossible2ReadFile = "Erreur : impossible de lire le fichier : "
+Impossible2WriteFile = "Erreur : impossible d'inscrire dans le fichier : "
+
+interface = "interface"
+synonymes = "synonymes"
+symboles = "symboles"
+
+fr_FR_is_true = " "
+# " " pour le français de France seulement.
+# "" pour d'autres langues, comme "fr_BE" ou "en" par exemple.
+# Si vous ne savez pas pourquoi, c'est ""!
